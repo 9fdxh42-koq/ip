@@ -1,3 +1,3 @@
-# Adding logging for better debugging
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T21:40:08.316Z_
+_Last updated: 2025-02-16T21:40:38.295Z_
