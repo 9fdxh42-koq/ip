@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Improving database indexing
 
-_Last updated: 2025-02-16T19:44:36.330Z_
+_Last updated: 2025-02-16T19:45:06.334Z_
