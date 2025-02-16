@@ -1,3 +1,3 @@
-# Fixing image rendering issues
+# Updating API request parameters
 
-_Last updated: 2025-02-16T11:06:38.202Z_
+_Last updated: 2025-02-16T11:07:08.332Z_
