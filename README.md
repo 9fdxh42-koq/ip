@@ -1,3 +1,3 @@
-# Adding multi-language support
+# Fixing broken links in README
 
-_Last updated: 2025-02-16T08:52:26.358Z_
+_Last updated: 2025-02-16T08:52:48.296Z_
