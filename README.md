@@ -1,3 +1,3 @@
-# Updating configuration files
+# Fixing broken links in README
 
-_Last updated: 2025-02-16T21:30:38.126Z_
+_Last updated: 2025-02-16T21:31:08.129Z_
