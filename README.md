@@ -1,3 +1,3 @@
-# Fixing internationalization issues
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-16T15:09:31.723Z_
+_Last updated: 2025-02-16T15:10:01.701Z_
