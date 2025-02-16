@@ -1,3 +1,3 @@
-# Improving error handling
+# Fixing internationalization issues
 
-_Last updated: 2025-02-16T12:25:39.969Z_
+_Last updated: 2025-02-16T12:26:09.853Z_
