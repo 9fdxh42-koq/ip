@@ -1,3 +1,3 @@
-# Adding logging for better debugging
+# Updating documentation formatting
 
-_Last updated: 2025-02-16T11:59:09.453Z_
+_Last updated: 2025-02-16T11:59:39.334Z_
