@@ -1,3 +1,3 @@
-# Refactoring background jobs
+# Refactoring component structure
 
-_Last updated: 2025-02-16T15:40:02.207Z_
+_Last updated: 2025-02-16T15:40:32.243Z_
