@@ -1,3 +1,3 @@
-# Enhancing documentation
+# Updating example code snippets
 
-_Last updated: 2025-02-16T12:06:09.979Z_
+_Last updated: 2025-02-16T12:06:41.513Z_
