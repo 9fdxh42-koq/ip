@@ -1,3 +1,3 @@
-# Updating project metadata
+# Fixing internationalization issues
 
-_Last updated: 2025-02-16T10:09:37.519Z_
+_Last updated: 2025-02-16T10:10:07.826Z_
