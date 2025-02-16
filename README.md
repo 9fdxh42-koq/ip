@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Fixing image rendering issues
 
-_Last updated: 2025-02-16T19:16:05.854Z_
+_Last updated: 2025-02-16T19:16:35.867Z_
