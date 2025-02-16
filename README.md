@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Adding better tooltips
 
-_Last updated: 2025-02-16T22:19:39.064Z_
+_Last updated: 2025-02-16T22:20:09.005Z_
