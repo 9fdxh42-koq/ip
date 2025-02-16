@@ -1,3 +1,3 @@
-# Updating API request parameters
+# Updating example code snippets
 
-_Last updated: 2025-02-16T17:20:33.888Z_
+_Last updated: 2025-02-16T17:21:03.907Z_
