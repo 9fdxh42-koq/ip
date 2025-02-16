@@ -1,3 +1,3 @@
-# Fixing broken links in README
+# Adjusting styling for better UX
 
-_Last updated: 2025-02-16T19:32:06.179Z_
+_Last updated: 2025-02-16T19:32:36.102Z_
