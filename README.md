@@ -1,3 +1,3 @@
-# Adding accessibility improvements
+# Enhancing offline support
 
-_Last updated: 2025-02-16T02:31:05.318Z_
+_Last updated: 2025-02-16T02:31:35.874Z_
