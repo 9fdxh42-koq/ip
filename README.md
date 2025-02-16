@@ -1,3 +1,3 @@
-# Adding proper error messages
+# Updating example code snippets
 
-_Last updated: 2025-02-16T13:42:30.350Z_
+_Last updated: 2025-02-16T13:43:00.319Z_
