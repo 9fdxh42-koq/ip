@@ -1,3 +1,3 @@
-# Fixing formatting issues in logs
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T20:25:36.998Z_
+_Last updated: 2025-02-16T20:26:07.134Z_
