@@ -1,3 +1,3 @@
-# Fixing UI glitches
+# Improving SEO metadata
 
-_Last updated: 2025-02-16T19:09:35.740Z_
+_Last updated: 2025-02-16T19:10:05.713Z_
