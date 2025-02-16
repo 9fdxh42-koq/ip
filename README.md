@@ -1,3 +1,3 @@
-# Enhancing websocket stability
+# Improving error handling
 
-_Last updated: 2025-02-16T13:34:00.174Z_
+_Last updated: 2025-02-16T13:34:30.185Z_
