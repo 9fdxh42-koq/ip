@@ -1,3 +1,3 @@
-# Refining UI elements
+# Enhancing offline support
 
-_Last updated: 2025-02-16T18:20:04.891Z_
+_Last updated: 2025-02-16T18:20:34.891Z_
