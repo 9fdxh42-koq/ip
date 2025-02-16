@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Refactor README.md
 
-_Last updated: 2025-02-16T10:41:39.281Z_
+_Last updated: 2025-02-16T10:42:07.942Z_
