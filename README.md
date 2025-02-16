@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Reformatting markdown files
 
-_Last updated: 2025-02-16T13:27:30.171Z_
+_Last updated: 2025-02-16T13:28:00.183Z_
