@@ -1,3 +1,3 @@
-# Refactoring database queries
+# Optimizing SQL queries
 
-_Last updated: 2025-02-16T15:23:01.909Z_
+_Last updated: 2025-02-16T15:23:32.051Z_
