@@ -1,3 +1,3 @@
-# Improving API documentation
+# Fixing internationalization issues
 
-_Last updated: 2025-02-16T01:51:33.271Z_
+_Last updated: 2025-02-16T01:52:03.401Z_
