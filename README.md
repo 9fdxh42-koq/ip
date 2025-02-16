@@ -1,3 +1,3 @@
-# Fixing missing semicolons
+# Fixing broken links in README
 
-_Last updated: 2025-02-16T02:05:34.024Z_
+_Last updated: 2025-02-16T02:06:04.030Z_
