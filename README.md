@@ -1,3 +1,3 @@
-# Enhancing webhook reliability
+# Fixing internationalization issues
 
-_Last updated: 2025-02-16T07:17:29.984Z_
+_Last updated: 2025-02-16T07:18:00.049Z_
