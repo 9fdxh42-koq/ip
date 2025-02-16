@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Refactoring state management logic
 
-_Last updated: 2025-02-16T16:39:03.203Z_
+_Last updated: 2025-02-16T16:39:33.227Z_
