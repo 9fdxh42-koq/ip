@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Optimizing SQL queries
 
-_Last updated: 2025-02-16T21:02:07.658Z_
+_Last updated: 2025-02-16T21:02:37.653Z_
