@@ -1,3 +1,3 @@
-# Adding proper error messages
+# Small code refactor
 
-_Last updated: 2025-02-17T15:58:17.905Z_
+_Last updated: 2025-02-17T15:58:48.046Z_
