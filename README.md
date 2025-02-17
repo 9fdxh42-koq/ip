@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Refining notification system
 
-_Last updated: 2025-02-17T22:32:53.871Z_
+_Last updated: 2025-02-17T22:33:23.857Z_
