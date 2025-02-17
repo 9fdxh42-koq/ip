@@ -1,3 +1,3 @@
-# Fixing permission issues
+# Minor text update
 
-_Last updated: 2025-02-17T14:44:46.307Z_
+_Last updated: 2025-02-17T14:45:16.306Z_
