@@ -1,3 +1,3 @@
-# Optimizing SQL performance
+# Fixing permission issues
 
-_Last updated: 2025-02-17T20:06:20.849Z_
+_Last updated: 2025-02-17T20:06:50.831Z_
