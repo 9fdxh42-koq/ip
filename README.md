@@ -1,3 +1,3 @@
-# Refactoring component structure
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T19:29:20.271Z_
+_Last updated: 2025-02-17T19:29:50.320Z_
