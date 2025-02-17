@@ -1,3 +1,3 @@
-# Optimizing SQL performance
+# Reducing memory usage
 
-_Last updated: 2025-02-17T13:06:29.540Z_
+_Last updated: 2025-02-17T13:07:05.229Z_
