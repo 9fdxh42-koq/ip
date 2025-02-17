@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Fixing broken links in README
 
-_Last updated: 2025-02-17T17:01:48.158Z_
+_Last updated: 2025-02-17T17:02:18.155Z_
