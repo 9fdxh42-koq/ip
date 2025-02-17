@@ -1,3 +1,3 @@
-# Fixing input validation issues
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T08:21:19.087Z_
+_Last updated: 2025-02-17T08:21:47.562Z_
