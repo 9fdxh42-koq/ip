@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Enhancing websocket stability
 
-_Last updated: 2025-02-17T15:29:47.282Z_
+_Last updated: 2025-02-17T15:30:17.339Z_
