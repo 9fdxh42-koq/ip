@@ -1,3 +1,3 @@
-# Improving application startup time
+# Fixing compatibility issues
 
-_Last updated: 2025-02-17T19:05:20.002Z_
+_Last updated: 2025-02-17T19:05:49.951Z_
