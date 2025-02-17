@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Refining notification system
 
-_Last updated: 2025-02-17T17:55:48.785Z_
+_Last updated: 2025-02-17T17:56:18.781Z_
