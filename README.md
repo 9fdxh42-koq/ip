@@ -1,3 +1,3 @@
-# Adding fallback mechanisms
+# Fixing broken links in README
 
-_Last updated: 2025-02-17T21:38:52.813Z_
+_Last updated: 2025-02-17T21:39:23.044Z_
