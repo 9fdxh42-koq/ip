@@ -1,3 +1,3 @@
-# Minor text update
+# Enhancing offline support
 
-_Last updated: 2025-02-17T19:44:50.531Z_
+_Last updated: 2025-02-17T19:45:20.525Z_
