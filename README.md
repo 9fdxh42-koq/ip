@@ -1,3 +1,3 @@
-# Optimizing SQL performance
+# Optimizing CSS rules
 
-_Last updated: 2025-02-17T04:23:42.693Z_
+_Last updated: 2025-02-17T04:24:12.715Z_
