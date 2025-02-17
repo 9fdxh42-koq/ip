@@ -1,3 +1,3 @@
-# Adding multi-language support
+# Updating documentation formatting
 
-_Last updated: 2025-02-17T18:05:18.930Z_
+_Last updated: 2025-02-17T18:05:48.931Z_
