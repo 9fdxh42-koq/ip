@@ -1,3 +1,3 @@
-# Enhancing websocket stability
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T12:57:51.012Z_
+_Last updated: 2025-02-17T12:58:20.324Z_
