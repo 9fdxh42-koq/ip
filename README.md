@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Refactoring background jobs
 
-_Last updated: 2025-02-17T10:07:07.680Z_
+_Last updated: 2025-02-17T10:07:37.668Z_
