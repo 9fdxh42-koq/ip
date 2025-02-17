@@ -1,3 +1,3 @@
-# Updating changelog
+# Fixing inconsistent naming conventions
 
-_Last updated: 2025-02-17T14:19:15.953Z_
+_Last updated: 2025-02-17T14:19:46.088Z_
