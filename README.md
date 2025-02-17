@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Refactoring background jobs
 
-_Last updated: 2025-02-17T09:08:52.348Z_
+_Last updated: 2025-02-17T09:09:19.355Z_
