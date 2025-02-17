@@ -1,3 +1,3 @@
-# Rewriting inefficient algorithms
+# Reducing bundle size
 
-_Last updated: 2025-02-17T05:05:43.359Z_
+_Last updated: 2025-02-17T05:06:13.329Z_
