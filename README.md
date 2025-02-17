@@ -1,3 +1,3 @@
-# Enhancing dark mode support
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T13:39:46.726Z_
+_Last updated: 2025-02-17T13:40:16.213Z_
