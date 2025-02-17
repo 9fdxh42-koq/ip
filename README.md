@@ -1,3 +1,3 @@
-# Refining notification system
+# Adding better exception handling
 
-_Last updated: 2025-02-17T08:53:17.323Z_
+_Last updated: 2025-02-17T08:53:47.020Z_
