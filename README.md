@@ -1,3 +1,3 @@
-# Refining UI elements
+# Updating documentation formatting
 
-_Last updated: 2025-02-17T15:12:16.996Z_
+_Last updated: 2025-02-17T15:12:46.901Z_
