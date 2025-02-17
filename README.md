@@ -1,3 +1,3 @@
-# Fixing UI glitches
+# Fixing broken links in README
 
-_Last updated: 2025-02-17T15:31:47.818Z_
+_Last updated: 2025-02-17T15:32:17.472Z_
