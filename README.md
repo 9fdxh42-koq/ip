@@ -1,3 +1,3 @@
-# Fixing permission issues
+# Fixing broken links in README
 
-_Last updated: 2025-02-17T03:10:41.645Z_
+_Last updated: 2025-02-17T03:11:11.619Z_
