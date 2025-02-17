@@ -1,3 +1,3 @@
-# Refactor README.md
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T23:55:03.856Z_
+_Last updated: 2025-02-17T23:55:13.759Z_
