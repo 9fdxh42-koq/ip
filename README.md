@@ -1,3 +1,3 @@
-# Reducing memory usage
+# Fixing UI glitches
 
-_Last updated: 2025-02-17T23:12:24.567Z_
+_Last updated: 2025-02-17T23:12:54.581Z_
