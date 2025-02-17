@@ -1,3 +1,3 @@
-# Optimizing README file
+# Fixing broken links in README
 
-_Last updated: 2025-02-17T02:11:10.655Z_
+_Last updated: 2025-02-17T02:11:40.483Z_
