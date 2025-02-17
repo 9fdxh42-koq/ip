@@ -1,3 +1,3 @@
-# Fixing permission issues
+# Refactoring background jobs
 
-_Last updated: 2025-02-17T13:21:45.593Z_
+_Last updated: 2025-02-17T13:22:15.408Z_
