@@ -1,3 +1,3 @@
-# Refactoring component structure
+# Adding proper error messages
 
-_Last updated: 2025-02-17T07:09:15.144Z_
+_Last updated: 2025-02-17T07:09:45.137Z_
