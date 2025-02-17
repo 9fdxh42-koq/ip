@@ -1,3 +1,3 @@
-# Fixing broken links in README
+# Updating project metadata
 
-_Last updated: 2025-02-17T03:50:42.178Z_
+_Last updated: 2025-02-17T03:51:12.159Z_
