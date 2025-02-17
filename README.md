@@ -1,3 +1,3 @@
-# Optimizing CSS rules
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T05:16:13.504Z_
+_Last updated: 2025-02-17T05:16:43.519Z_
