@@ -1,3 +1,3 @@
-# Updating API request parameters
+# Adding better exception handling
 
-_Last updated: 2025-02-17T05:35:43.825Z_
+_Last updated: 2025-02-17T05:36:13.817Z_
