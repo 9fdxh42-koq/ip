@@ -1,3 +1,3 @@
-# Updating outdated references
+# Fixing internationalization issues
 
-_Last updated: 2025-02-18T00:54:52.586Z_
+_Last updated: 2025-02-18T00:55:03.160Z_
