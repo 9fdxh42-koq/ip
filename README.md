@@ -1,3 +1,3 @@
-# Enhancing frontend performance
+# Optimizing SQL performance
 
-_Last updated: 2025-02-18T01:34:04.592Z_
+_Last updated: 2025-02-18T01:34:14.453Z_
