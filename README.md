@@ -1,3 +1,3 @@
-# Fixing missing semicolons
+# Updating API request parameters
 
-_Last updated: 2025-02-18T00:42:11.744Z_
+_Last updated: 2025-02-18T00:42:22.457Z_
