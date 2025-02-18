@@ -1,3 +1,3 @@
-# Optimizing SQL performance
+# Improving SEO metadata
 
-_Last updated: 2025-02-18T00:23:15.201Z_
+_Last updated: 2025-02-18T00:23:25.414Z_
